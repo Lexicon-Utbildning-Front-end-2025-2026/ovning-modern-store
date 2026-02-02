@@ -12,7 +12,7 @@ Att bemästra datahämtning (`fetch`) i Next.js, hantera asynkron kod, och skapa
 
 Vi använder **Platzi Fake Store API**.
 
-* **Bas-URL:** `https://api.escuelajs.co/api/v1`
+* **Bas-URL:** `https://api.escuelajs.co/api/v1` [Dokumentation](https://fakeapi.platzi.com/en/about/introduction/)
 * **Produkter:** `/products`
 * **Enskild produkt:** `/products/[id]`
 * **Kategorier:** `/categories`
