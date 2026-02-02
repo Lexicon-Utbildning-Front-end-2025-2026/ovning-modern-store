@@ -94,12 +94,5 @@ const cleanUrl = product.images[0].replace(/[\[\]\"]/g, "");
 
 ---
 
-### Inlämning & Redovisning
-
-Projektet körs under hela veckan. Vi kommer att ha dagliga avstämningar där vi kollar på hur ni har löst era `fetch`-anrop och hur ni hanterar datan i era komponenter.
-
 **Lycka till – nu bygger vi framtidens e-handel!**
 
----
-
-**Är det något mer du vill att jag lägger till i README-filen, kanske något specifikt om hur de ska använda Biome eller Tailwind 4?**
